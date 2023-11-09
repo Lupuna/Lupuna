@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Ilua Yakuchev</h1>
+<h1 align="center">Hi! My name is Ilua Yakuchev</h1>
 <br>
 <br>
 <table align="center"><tr>
