@@ -1,28 +1,50 @@
-<h1 align="center">Hi! My name is Ilua Yakuchev</h1>
-<br>
-<br>
-<table align="center"><tr>
-  <td valign="top" width="50%">
-    <h2 align="center">Badges</h2>
-    <a href="https://github.com/Lupuna" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupuna&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  </td><td valign="top" width="50%">
-    <h2 align="center">My Skill Set</h2>  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<h1 align="center">Hey there! 👋 I'm Ilua Yakuchev</h1>
+
+## 🚀 About Me
+- 🧑‍💻 **Backend Developer** | Python, Django, FastAPI
+- 🎓 **Physics Student** at TSU
+- 🔬 Passionate about **high-performance computing**, **web development**, and **algorithms**
+- 🌱 Currently learning **Go** and scaling distributed systems
+- 🛠 Exploring **Geant4**, **Celery**, **RabbitMQ**, and **ElasticSearch**
+
+---
+
+<div style="display: flex; align-items: center; justify-content: space-evenly; flex-direction: column;">
+    <h3>Tech Stack & Tools</h3>
+    <div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="margin: 10px 50px;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupuna&langs_count=8&theme=react&hide_border=true" alt="Top Languages"/>
+    </p>
+    </div>
+    <div>
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+        <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+        <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+      </div>
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+        <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+        <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/></a>
+      </div>
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <a href="https://docs.celeryq.dev/en/stable/"><img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/></a>
+        <a href="https://www.elastic.co/elasticsearch/"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/></a>
+        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+      </div>
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+        <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
+        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+        <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+      </div>
+    </div>
+    </div>
 </div>
 
-<div align="center">  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-</div> 
-  </td>
-</tr></table>
+---
+
+## 📬 Connect with Me
+<a href="mailto:terragod427@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/Lurani"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
